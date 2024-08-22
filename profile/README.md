@@ -1,6 +1,6 @@
 # Bricks Affinity
 
-![Bricks Affinity](https://raw.githubusercontent.com/bricksaffinity/.github/main/profile/brick-water.png)
+![Bricks Affinity](https://raw.githubusercontent.com/bricksaffinity/.github/main/profile/brick-water.jpeg)
 
 Bricks Affinity is your specialised and certified Databricks Technology partner. 100% of our focus is dedicated to get the most out of data lake storage layer solutions for better reliability, security, and performance.
 
