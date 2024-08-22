@@ -23,5 +23,5 @@ ij_editorconfig_space_before_colon = false
 ij_editorconfig_space_before_comma = false
 ij_editorconfig_spaces_around_assignment_operators = true
 
-[*.yml]
+[{*md,*.yml}]
 max_line_length = off
